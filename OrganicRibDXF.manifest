@@ -1,0 +1,13 @@
+{
+  "autodeskProduct": "Fusion",
+  "type": "addin",
+  "id": "80ef8a08-c450-49ab-af12-90c3cf4fce3e",
+  "author": "OpenAI",
+  "description": {
+    "": "Creates interlocking organic rib sections from a solid body, optionally cuts modeled half-lap joints, and exports a laser-cut-ready DXF layout."
+  },
+  "version": "2.0.0",
+  "runOnStartup": false,
+  "supportedOS": "windows|mac",
+  "editEnabled": true
+}
